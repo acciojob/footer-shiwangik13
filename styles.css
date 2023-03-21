@@ -1,1 +1,26 @@
 /* your code here */
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    align-items: center;
+}
+.media-icons{
+    justify-content: space-evenly;
+    height: inherit;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3rem 2rem 3rem; 
+}
+.bottom-details{
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-details{
+    background-color: grey;
+    font-size: large;
+    padding: 1rem 4rem 0.5rem 3rem;
+    color: white;
+}
